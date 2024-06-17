@@ -9,7 +9,7 @@ O projeto Cidade Iluminada nasceu com a visão de aprimorar o progresso da ilumi
 
 ## 1.1 MOTIVAÇÃO
  Não é de hoje que a segurança é uma preocupação de todos, quem não se sente inseguro em passar por vias com pouca iluminação? ou pior, sem nenhuma iluminação ?
-Pensando nisso, as alunas Josieli Camargo e Rhaísa Soares, alunas no curso de análise e desenvolvimento de sistemas da faculdade Cesusc, criaram o projeto Cidade Iluminada. Este projeto foi idealizado para o aperfeiçoamento das questões de segurança e expansão de cidades inteligentes.
+Pensando nisso, as alunas Josieli Camargo e Julia Pereira, alunas no curso de análise e desenvolvimento de sistemas da faculdade Cesusc, criaram o projeto Cidade Iluminada. Este projeto foi idealizado para o aperfeiçoamento das questões de segurança e expansão de cidades inteligentes.
  
 | O problema é... | Segurança pública e falta de iluminação. |
 | ----------- | ----------- |
